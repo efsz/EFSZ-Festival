@@ -8,3 +8,6 @@ As a repository, here you will find
 - photos and videos from previous events (starting from 2014)
 
 As a wiki you will find descriptive information and conclusion from our members that so far participated in the organization of the event. 
+
+Use the task plane on the right side to use the wiki or just follow this link: 
+https://github.com/efsz/EFSZ-Festival/wiki
